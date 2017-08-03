@@ -206,6 +206,4 @@ public class CandidatoTest {
         assertEquals("skills", nodes.next().getName());
         assertTrue(nodes.next().isInIterable());
     }
-
-
 }
